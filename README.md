@@ -1,15 +1,13 @@
 ## Steps to start Backend server  
 Step 1:  
-• CD to `code/backend/smartSupport`  
-directory.  
+• CD to `code/backend/smartSupport` directory.
+
 Step 2:  
 • Run `pip install requirements.txt` or  
-`pip3 install requirements.txt` to  
-install all dependencies  
+`pip3 install requirements.txt` to install all dependencies  
 
 Step 3:  
-• Run `python main.py` or `python3  
-main.py`  
+• Run `python main.py` or `python3 main.py`  
 
  
 ### Mailhog installation guide  
