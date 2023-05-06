@@ -1,0 +1,3 @@
+-- SQLite
+DELETE
+FROM comment;
